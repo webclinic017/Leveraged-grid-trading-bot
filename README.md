@@ -105,3 +105,5 @@ Aug 05 2021 17:37:53, sell at 2585.4, place new buy at 2582.4.
 BTC address: `bc1qdqw277tqsqv0jqsc3hk4h2rwfa6zvfel2j09xe`
 
 ETH address: `0xCD5ea947424EaC5c277AbA8EcEDB1Ee760aBd265`
+
+[FTX Pay](https://ftx.com/pay/request?id=21559&memoIsRequired=false&memo=&notes=&fixedWidth=true)
